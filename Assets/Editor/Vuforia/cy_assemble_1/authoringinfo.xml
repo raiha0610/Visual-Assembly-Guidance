@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="28.0" toolVersion="10.2.5">
+<ModelTarget name="Chasisv2" targetId="2c23e76dbc1f4eecaf731ba8e897cde5" version="14.0" toolVersion="10.2.5" bbox="-0.522462 -0.065078 -0.110262 0.015262 0.065089 0.080264" previewImage="2c23e76dbc1f4eecaf731ba8e897cde5_preview.jpg"/>
+<ModelTarget name="HeadtubeForkv3" targetId="078e44812ec94b98b346598177f06865" version="14.0" toolVersion="10.2.5" bbox="-0.054522 -0.015177 -0.231908 0.054509 0.015218 0.130177" previewImage="078e44812ec94b98b346598177f06865_preview.jpg"/>
+<ModelTarget name="Ass2" targetId="542b8a226c0d4a1897b06fe50ab9654a" version="14.0" toolVersion="10.2.5" bbox="-0.068771 -0.005515 -0.296824 0.068641 0.625779 0.072894" previewImage="542b8a226c0d4a1897b06fe50ab9654a_preview.jpg"/>
+<ModelTarget name="Ass3" targetId="cac5e95e70264b1683726eb1e217c585" version="14.0" toolVersion="10.2.5" bbox="-0.068732 -0.033472 -0.296838 0.068655 0.625793 0.170664" previewImage="cac5e95e70264b1683726eb1e217c585_preview.jpg"/>
+<ModelTarget name="Wheelv1" targetId="afaca50f053a4dc28b894b4318e31c19" version="14.0" toolVersion="10.2.5" bbox="-0.072874 -0.132281 -0.056129 0.191541 0.132134 0.056141" previewImage="afaca50f053a4dc28b894b4318e31c19_preview.jpg"/>
+<ModelTarget name="Ass1" targetId="a81ac6e928dd4f8cb2eb80b329609e1a" version="14.0" toolVersion="10.2.5" bbox="-0.068643 -0.005460 -0.178170 0.068586 0.512372 0.072785" previewImage="a81ac6e928dd4f8cb2eb80b329609e1a_preview.jpg"/>
+<ModelTarget name="Ass4" targetId="0f66c5ed49994155949c955b131bf154" version="14.0" toolVersion="10.2.5" bbox="-0.259288 -0.150668 -0.299617 0.259148 0.625850 0.258612" previewImage="0f66c5ed49994155949c955b131bf154_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Chasisv2s_assembly" assemblyId="e7e67726fe034540abda146edef12110">
+<Part name="Chasisv2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.253349 -0.0181865 0.73603" rotation="AD: 0.9999999990571654 0.00953189581480232 0.007417949963560465 75.7859" image="Chasisv2_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="HeadtubeForkv3s_assembly" assemblyId="48251a2038d34f9ba1636c1b7a88f848">
+<Part name="HeadtubeForkv3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0508647 0.000267267 0.439252" rotation="AD: 0.9208329010646195 0.693753748328391 -0.9158093541194883 230.699" image="HeadtubeForkv3_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Ass2s_assembly" assemblyId="7d98b21c55544180a6ac6e8ca4d55c98">
+<Part name="Ass2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.314331 -0.0966083 0.763903" rotation="AD: 0.8807773314449163 0.8371549270043556 -1.115973049596651 113.491" image="Ass2_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Ass3s_assembly" assemblyId="5c67d4e44a0344198cf1d2a12da515a9">
+<Part name="Ass3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.297211 -0.0557473 1.00208" rotation="AD: 0.8745144213774391 0.8546714585517524 -1.1496269257539582 111.881" image="Ass3_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Wheelv1s_assembly" assemblyId="f595b8a31f074e4d88280075b70aaaf7">
+<Part name="Wheelv1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0398468 0.0434133 0.481109" rotation="AD: 0.9868977835408972 2.2301712234421447 -0.17699351802932897 176.331" image="Wheelv1_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Ass1s_assembly" assemblyId="4bf8d8577f494da1aad01a726891ec0c">
+<Part name="Ass1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.2549 -0.044444 0.747667" rotation="AD: 0.8832809276018538 0.8525413311940794 -1.0547969651091396 115.097" image="Ass1_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Ass4s_assembly" assemblyId="6bc79fd55fc04d3b9eb202e3783b1872">
+<Part name="Ass4" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.237204 -0.0243575 1.17029" rotation="AD: 0.880618522520643 0.8980259545624011 -1.0065331395284258 115.226" image="Ass4_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase mtDBid="c1b5938feeda4ce9a8e41274c5252f3e" name="cy_assemble_1" toolVersion="13.0" version="13.0">
+    <RecognitionResult assemblyId="48251a2038d34f9ba1636c1b7a88f848" assemblyName="HeadtubeForkv3" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="4bf8d8577f494da1aad01a726891ec0c" assemblyName="Ass1" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="5c67d4e44a0344198cf1d2a12da515a9" assemblyName="Ass3" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="6bc79fd55fc04d3b9eb202e3783b1872" assemblyName="Ass4" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="7d98b21c55544180a6ac6e8ca4d55c98" assemblyName="Ass2" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="e7e67726fe034540abda146edef12110" assemblyName="Chasisv2" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="f595b8a31f074e4d88280075b70aaaf7" assemblyName="Wheelv1" entryPoint="viewpoint_0001" />
+</ModelTargetDatabase>
+
+</QCARInfo>

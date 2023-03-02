@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="28.0" toolVersion="10.2.5">
+<ModelTarget name="Ass5" targetId="42bc2786862f4b8ebbaf8409549e1769" version="14.0" toolVersion="10.2.5" bbox="-0.068856 -0.150668 -0.299617 0.068712 0.625850 0.170690" previewImage="42bc2786862f4b8ebbaf8409549e1769_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Ass5s_assembly" assemblyId="3d74cb91cb434aea98b6321795226cfc">
+<Part name="Ass5" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.241093 -0.0482002 1.11719" rotation="AD: 0.8841780882225047 0.8169119632788566 -1.1231736594088702 113.91" image="Ass5_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

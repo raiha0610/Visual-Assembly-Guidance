@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Ass5" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Ass5s_assembly" assemblyId="3d74cb91cb434aea98b6321795226cfc">
+<Part name="Ass5" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.241093 -0.0482002 1.11719" rotation="AD: 0.8841780882225047 0.8169119632788566 -1.1231736594088702 113.91" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="28.0" toolVersion="10.2.5">
+<ModelTarget name="first" targetId="bdf363a716c1443babebc640f83a0c68" version="14.0" toolVersion="10.2.5" bbox="-0.000013 -0.000013 -0.005013 0.015013 0.026013 0.005009" previewImage="bdf363a716c1443babebc640f83a0c68_preview.jpg"/>
+<ModelTarget name="second" targetId="1d1297bbf5374b53bacf2cdce3bfb8a5" version="14.0" toolVersion="10.2.5" bbox="-0.015007 -0.000013 -0.005013 0.002013 0.026013 0.005009" previewImage="1d1297bbf5374b53bacf2cdce3bfb8a5_preview.jpg"/>
+<ModelTarget name="3rd" targetId="6b371b6d944a49e1a0db9857867b5491" version="14.0" toolVersion="10.2.5" bbox="-0.015015 -0.000015 -0.005015 0.015015 0.005012 0.005010" previewImage="6b371b6d944a49e1a0db9857867b5491_preview.jpg"/>
+<ModelTarget name="4th" targetId="25822c388bf2448e8a081569e02f9106" version="14.0" toolVersion="10.2.5" bbox="-0.003004 -0.000005 -0.005005 0.003005 0.002003 0.005005" previewImage="25822c388bf2448e8a081569e02f9106_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="firsts_assembly" assemblyId="899015ae387749fda57d3add5f68b41c">
+<Part name="first" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0003" translation="-0.00747617 0.0130135 0.0733507" rotation="AD: -0.8547400861996955 -0.5196196824693229 21.46699647320561 179.89" image="first_viewpoint_0003.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="seconds_assembly" assemblyId="7350a9ffa10b455ea6ccba84e6547e5f">
+<Part name="second" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00647184 0.0130116 0.0751546" rotation="AD: 0.9999999995322667 -0.0006932023058704211 0.04417035094755046 181.796" image="second_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="3rds_assembly" assemblyId="557b30fdbcd44cf28676f7baca02b565">
+<Part name="3rd" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-2.27972e-07 0.00249836 0.0317384" rotation="AD: 0.9999999997791653 0.00044987865924011846 -0.046767891340768496 181.101" image="3rd_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="4ths_assembly" assemblyId="a78c9f4088774a21b8df67697f437013">
+<Part name="4th" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-1.61091e-08 0.000994984 0.0284952" rotation="AD: -0.9994367837975513 -0.04674196349344077 1.032948743165453 176.397" image="4th_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase mtDBid="ac6c2637186b452c971e648eecd6370e" name="assembly" toolVersion="13.0" version="13.0">
+    <RecognitionResult assemblyId="557b30fdbcd44cf28676f7baca02b565" assemblyName="3rd" entryPoint="viewpoint_0000" />
+    <RecognitionResult assemblyId="7350a9ffa10b455ea6ccba84e6547e5f" assemblyName="second" entryPoint="viewpoint_0000" />
+    <RecognitionResult assemblyId="899015ae387749fda57d3add5f68b41c" assemblyName="first" entryPoint="viewpoint_0003" />
+    <RecognitionResult assemblyId="a78c9f4088774a21b8df67697f437013" assemblyName="4th" entryPoint="viewpoint_0001" />
+</ModelTargetDatabase>
+
+</QCARInfo>

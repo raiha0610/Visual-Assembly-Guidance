@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Chasisv2" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="HeadtubeForkv3" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="Ass2" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="Ass3" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="Wheelv1" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="Ass1" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="Ass4" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Chasisv2s_assembly" assemblyId="e7e67726fe034540abda146edef12110">
+<Part name="Chasisv2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.253349 -0.0181865 0.73603" rotation="AD: 0.9999999990571654 0.00953189581480232 0.007417949963560465 75.7859" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="HeadtubeForkv3s_assembly" assemblyId="48251a2038d34f9ba1636c1b7a88f848">
+<Part name="HeadtubeForkv3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0508647 0.000267267 0.439252" rotation="AD: 0.9208329010646195 0.693753748328391 -0.9158093541194883 230.699" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Ass2s_assembly" assemblyId="7d98b21c55544180a6ac6e8ca4d55c98">
+<Part name="Ass2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.314331 -0.0966083 0.763903" rotation="AD: 0.8807773314449163 0.8371549270043556 -1.115973049596651 113.491" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Ass3s_assembly" assemblyId="5c67d4e44a0344198cf1d2a12da515a9">
+<Part name="Ass3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.297211 -0.0557473 1.00208" rotation="AD: 0.8745144213774391 0.8546714585517524 -1.1496269257539582 111.881" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Wheelv1s_assembly" assemblyId="f595b8a31f074e4d88280075b70aaaf7">
+<Part name="Wheelv1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0398468 0.0434133 0.481109" rotation="AD: 0.9868977835408972 2.2301712234421447 -0.17699351802932897 176.331" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Ass1s_assembly" assemblyId="4bf8d8577f494da1aad01a726891ec0c">
+<Part name="Ass1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.2549 -0.044444 0.747667" rotation="AD: 0.8832809276018538 0.8525413311940794 -1.0547969651091396 115.097" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Ass4s_assembly" assemblyId="6bc79fd55fc04d3b9eb202e3783b1872">
+<Part name="Ass4" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.237204 -0.0243575 1.17029" rotation="AD: 0.880618522520643 0.8980259545624011 -1.0065331395284258 115.226" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="cy_assemble_1" />
+</QCARConfig>

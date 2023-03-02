@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="sq1" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="sq3" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="sq4" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="sq5" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="sq6" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="sq2" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="square2" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="square3" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="AnyConvcom__4" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="AnyConvcom__5" motionHint="adaptive" trackingMode="default"/>
+<ModelTarget name="AnyConvcom__final" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="sq1s_assembly" assemblyId="cb5ca26a61a34c12a19e19b3017a017c">
+<Part name="sq1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.049456 0.0333186 0.139495" rotation="AD: 0.8625743397705905 0.8384380380571528 -1.3724805920885985 106.717" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="sq3s_assembly" assemblyId="17284fbe19a0439b8b7d46d1030498b5">
+<Part name="sq3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0489586 0.140604 0.021094" rotation="AD: 0.9909967214296241 -0.19302364908273237 -0.9743019712013051 174.557" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="sq4s_assembly" assemblyId="068c9cd8f709464a989de340daa434b5">
+<Part name="sq4" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0585811 0.0335823 0.129325" rotation="AD: 0.9944938381405773 -0.14988217929806774 -0.9927414993382874 168.863" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="sq5s_assembly" assemblyId="809050316d964e57bc579a965da493e8">
+<Part name="sq5" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.116828 -0.0599715 0.165304" rotation="AD: 0.933244301520882 -0.9172849380769795 -0.6101832072629634 224.145" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="sq6s_assembly" assemblyId="0a55503414bf41769a6f432dabbcafd4">
+<Part name="sq6" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.111659 -0.0855353 0.0849553" rotation="AD: -0.9325980483608071 0.955693556870093 0.6037277463062787 132.893" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="sq2s_assembly" assemblyId="a1c49fa1708a4f7b9c94f9655a085ec1">
+<Part name="sq2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0002" translation="0.113965 -0.039634 0.19337" rotation="AD: -0.9089866450700257 0.918518099815213 0.7686580554722898 125.169" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="square2s_assembly" assemblyId="a7df0c04842f44bf8843d8b300708709">
+<Part name="square2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0132475 0.0263337 0.10846" rotation="AD: 0.8942088551124977 0.8400864294541911 -0.963059575918376 119.314" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="square3s_assembly" assemblyId="6ae25eb517fe4d20832a99abd597aebd">
+<Part name="square3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0131682 0.0260231 0.105772" rotation="AD: 0.888143089423382 0.8257673380460901 -1.0535688669133687 116.117" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="AnyConvcom__4s_assembly" assemblyId="d0a426dee8494a6fab8a63265f54e186">
+<Part name="AnyConvcom__4" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0002" translation="-0.0153444 0.0303297 0.106884" rotation="AD: 0.8577470116178029 0.8811977687961768 -1.286510526136577 107.612" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="AnyConvcom__5s_assembly" assemblyId="4e4ef92eb7c54fbda0384415c708277c">
+<Part name="AnyConvcom__5" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0137601 0.0329832 0.113642" rotation="AD: 0.8842236968241133 0.8536145599896557 -1.0427812891819936 115.501" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="AnyConvcom__finals_assembly" assemblyId="a02953262e6e4b3b9d16371961550d79">
+<Part name="AnyConvcom__final" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0119765 -0.0313373 0.132831" rotation="AD: -0.9335964554080066 0.9856185309022185 0.5908213013541069 131.304" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="rectangle" />
+</QCARConfig>

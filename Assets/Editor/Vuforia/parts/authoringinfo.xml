@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="28.0" toolVersion="10.2.5">
+<ModelTarget name="tri1" targetId="99d09d1acd0d47d5a4d4b162e2746922" version="14.0" toolVersion="10.2.5" bbox="-0.034238 -0.020000 0.015725 0.025040 0.031264 0.035484" previewImage="99d09d1acd0d47d5a4d4b162e2746922_preview.jpg"/>
+<ModelTarget name="AnyConvcom__tri2" targetId="2e43c98193314a7a9e73892b9c361004" version="14.0" toolVersion="10.2.5" bbox="-0.028222 0.004592 0.017008 0.023043 0.048902 0.034146" previewImage="2e43c98193314a7a9e73892b9c361004_preview.jpg"/>
+<ModelTarget name="AnyConvcom__tri3" targetId="55ba02a22978467ab64fe90489a0044a" version="14.0" toolVersion="10.2.5" bbox="-0.098233 0.006428 0.017008 -0.046968 0.050738 0.034221" previewImage="55ba02a22978467ab64fe90489a0044a_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="tri1s_assembly" assemblyId="227951c978d24a098863b7ba82782fca">
+<Part name="tri1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0046901 0.010443 0.125057" rotation="AD: 0.9999999999790269 0.00813084025391979 -0.0008004238074644301 168.756" image="tri1_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="AnyConvcom__tri2s_assembly" assemblyId="7f5f2d80c0bf497c83486b77006f1824">
+<Part name="AnyConvcom__tri2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.00211743 0.0288899 0.131998" rotation="AD: 0.9999999999944027 -0.008814207535663558 0.000379963035559069 175.063" image="AnyConvcom__tri2_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="AnyConvcom__tri3s_assembly" assemblyId="8e39250f079c4b938ed2828d23001ba4">
+<Part name="AnyConvcom__tri3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.072487 0.0301371 0.13719" rotation="AD: 0.999999999999995 -0.0019802688914681717 0.00005046153186084007 177.081" image="AnyConvcom__tri3_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase mtDBid="74e962d65bb14113922f4fb0bcbf1aa3" name="parts" toolVersion="13.0" version="13.0">
+    <RecognitionResult assemblyId="227951c978d24a098863b7ba82782fca" assemblyName="tri1" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="7f5f2d80c0bf497c83486b77006f1824" assemblyName="AnyConvcom__tri2" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="8e39250f079c4b938ed2828d23001ba4" assemblyName="AnyConvcom__tri3" entryPoint="viewpoint_0001" />
+</ModelTargetDatabase>
+
+</QCARInfo>

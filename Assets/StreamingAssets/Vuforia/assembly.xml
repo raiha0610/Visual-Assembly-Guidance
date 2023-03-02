@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="first" motionHint="adaptive" trackingMode="scan"/>
+<ModelTarget name="second" motionHint="adaptive" trackingMode="scan"/>
+<ModelTarget name="3rd" motionHint="adaptive" trackingMode="scan"/>
+<ModelTarget name="4th" motionHint="adaptive" trackingMode="scan"/>
+
+</Tracking>
+
+<Assembly name="firsts_assembly" assemblyId="899015ae387749fda57d3add5f68b41c">
+<Part name="first" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0003" translation="-0.00747617 0.0130135 0.0733507" rotation="AD: -0.8547400861996955 -0.5196196824693229 21.46699647320561 179.89" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="seconds_assembly" assemblyId="7350a9ffa10b455ea6ccba84e6547e5f">
+<Part name="second" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00647184 0.0130116 0.0751546" rotation="AD: 0.9999999995322667 -0.0006932023058704211 0.04417035094755046 181.796" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="3rds_assembly" assemblyId="557b30fdbcd44cf28676f7baca02b565">
+<Part name="3rd" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-2.27972e-07 0.00249836 0.0317384" rotation="AD: 0.9999999997791653 0.00044987865924011846 -0.046767891340768496 181.101" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="4ths_assembly" assemblyId="a78c9f4088774a21b8df67697f437013">
+<Part name="4th" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-1.61091e-08 0.000994984 0.0284952" rotation="AD: -0.9994367837975513 -0.04674196349344077 1.032948743165453 176.397" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="assembly" />
+</QCARConfig>
